@@ -18,6 +18,8 @@ def get_response(question):
     brain = {
         r"hi|hello" : "Hello, This is Kerolos Bot. How are you?",
         r"who are you|who": "This is an AI sample, power by Kerolos Farag",
+        r"fine | good" : "Good to hear",
+        r"" : "",
         # Key-Value -> Message-Response (Here)
 
     }

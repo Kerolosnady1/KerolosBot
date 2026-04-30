@@ -14,3 +14,4 @@ E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\refint\KerolosBot.dll
 E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.pdb
 E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.genruntimeconfig.cache
 E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\ref\KerolosBot.dll
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KerolosBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fa3cd405493db00bea45fafc8e846378826ac80")]
 [assembly: System.Reflection.AssemblyProductAttribute("KerolosBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KerolosBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
