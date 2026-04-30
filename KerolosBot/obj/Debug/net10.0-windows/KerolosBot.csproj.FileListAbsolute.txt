@@ -1,0 +1,16 @@
+E:\C#\KerolosBot\KerolosBot\bin\Debug\net10.0-windows\KerolosBot.exe
+E:\C#\KerolosBot\KerolosBot\bin\Debug\net10.0-windows\KerolosBot.deps.json
+E:\C#\KerolosBot\KerolosBot\bin\Debug\net10.0-windows\KerolosBot.runtimeconfig.json
+E:\C#\KerolosBot\KerolosBot\bin\Debug\net10.0-windows\KerolosBot.dll
+E:\C#\KerolosBot\KerolosBot\bin\Debug\net10.0-windows\KerolosBot.pdb
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.Form1.resources
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.csproj.GenerateResource.cache
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.AssemblyInfoInputs.cache
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.AssemblyInfo.cs
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.csproj.CoreCompileInputs.cache
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.dll
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\refint\KerolosBot.dll
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.pdb
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\KerolosBot.genruntimeconfig.cache
+E:\C#\KerolosBot\KerolosBot\obj\Debug\net10.0-windows\ref\KerolosBot.dll

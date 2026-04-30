@@ -1,0 +1,2 @@
+User: hello
+Kerolos Bot: Hello, This is Kerolos Bot. How are you?
