@@ -16,10 +16,10 @@ import re, os # regular expression
 def get_response(question):
 
     brain = {
-        r"hi|hello" : "Hello, This is Kerolos Bot. How are you?",
-        r"who are you|who": "This is an AI sample, power by Kerolos Farag",
-        r"fine | good" : "Good to hear",
-        r"" : "",
+        re.compile(r"hi|hello") : "Hello, This is Kerolos Bot. How are you?",
+        re.compile(r"who are you|who"): "This is an AI sample, power by Kerolos Farag",
+        re.compile(r"fine | good") : "Good to hear",
+        
         # Key-Value -> Message-Response (Here)
 
     }
